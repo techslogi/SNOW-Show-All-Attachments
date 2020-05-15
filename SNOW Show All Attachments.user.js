@@ -2,6 +2,8 @@
 // @name         SNOW Show All Attachments
 // @namespace    http://tampermonkey.net/
 // @version      0.4
+// @updateURL    https://github.com/techslogi/SNOW-Show-All-Attachments/raw/master/SNOW%20Show%20All%20Attachments.user.js
+// @downloadURL	 https://github.com/techslogi/SNOW-Show-All-Attachments/raw/master/SNOW%20Show%20All%20Attachments.user.js
 // @description  Increases the size of the attachment list from SNOW.
 // @author       Gabriel Vicente
 // @match        *://itsmgbpeu.service-now.com/*
